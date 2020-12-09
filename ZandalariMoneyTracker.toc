@@ -1,0 +1,13 @@
+## Interface: 90002
+## Title: Zandalari Money Tracker
+## Author: Zottelchen
+## Version: @project-version@
+## Notes: Tracks how much money you gained due to your zandalari racial.
+## DefaultState: enabled
+## SavedVariablesPerCharacter: zandalarimoney
+## SavedVariables: printzamot
+## X-Curse-Project-ID: 317735
+## X-WoWI-ID: 25824
+
+
+main.lua
