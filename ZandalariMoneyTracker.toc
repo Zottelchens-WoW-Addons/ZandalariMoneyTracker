@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90100
 ## Title: Zandalari Money Tracker
 ## Author: Zottelchen
 ## Version: @project-version@
@@ -8,6 +8,7 @@
 ## SavedVariables: printzamot
 ## X-Curse-Project-ID: 317735
 ## X-WoWI-ID: 25824
+## X-Wago-ID: 2jK8vlNy
 
 
 main.lua
