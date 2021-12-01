@@ -1,4 +1,4 @@
-## Interface: 90100
+## Interface: 90105
 ## Title: Zandalari Money Tracker
 ## Author: Zottelchen
 ## Version: @project-version@
