@@ -1,4 +1,4 @@
-_, _, raceID = UnitRace("player");
+local _, _, raceID = UnitRace("player");
 local function zamot_print(string)
   print("|cFF9CCD25[ZMT]|r " .. string)
 end
